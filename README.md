@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**amdcaruso/amdcaruso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi 👋, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a software developer, passionate about ambient computing and voice technologies.
+
+During the day I work at as software developer Gamesys, when the sun goes down I wear the cape of Google Developer Expert for the Google Assistant.
+
+I am a Women Techmakers ambassador and a community lead at [GDG Cloud London](gdgcloud.com).
+
+You can speak to me in Portuguese, English, Italian and a little Japanese.
+
+Check my [website](amanda.ml).
